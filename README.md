@@ -1,6 +1,6 @@
-# Affect Recognition Knowledge Exchange
+# Affective Computing Knowledge Exchange
 <!-- write a short introduction -->
-This repository is a collection of datasets, models and approaches for affect recognition. The goal is to provide a comprehensive overview of the current state of the art in the field of multimodal affect recognition. The repository is structured as follows:
+This repository is a collection of datasets, models and approaches for affective computing. The goal is to provide a comprehensive overview of the current state of the art in the field of multimodal affect computing with a focus on emotion extraction from different modalities. The repository is structured as follows:
 
 * [Datasets](#datasets)
 * [Models and Approaches](#models-and-approaches)
