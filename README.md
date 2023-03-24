@@ -33,6 +33,7 @@ This repository is a collection of datasets, models and approaches for affective
         <li><a href="#multimodal-features">Multimodal Features</a></li>
       </ul>
     </li>
+    <li><a href="#evaluation">Evaluation</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
 
@@ -103,6 +104,17 @@ This repository is a collection of datasets, models and approaches for affective
 <!-- List of models/approaches that focus on multimodal input -->
 |Name[Link]|Description|Tags|
 |:-|:-|:-|
+<p align="right">[<a href="#readme-top">back to top</a>]</p>
+
+## Evaluation
+<!-- List of evaluation metrics for affective computing models and approaches -->
+This section describes how to quatify affective computing models and approaches.
+|Name[Link]|Description|metric|
+|:-|:-|:-|
+|Valence-Arousal (VA) Space|The valence-arousal space is a two-dimensional space that represents the affective states of a person. The valence axis represents the positive-negative dimension, while the arousal axis represents the active(high)-passive(low) dimension.||
+|Expression Clasification|The expression classification is a classification task that classifies the facial expression into one of the following categories: neutral, happy, sad, surprise, fear, disgust, anger, contempt.|Accuracy, Precision, Recall, F1|
+|Facial Action Coding System (FACS)|The Facial Action Coding System (FACS) is a coding system for describing facial movements. The FACS is a system of 46 action units (AUs) that are defined by the location and movement of the facial muscles.|Accuracy, Precision, Recall, F1|
+
 <p align="right">[<a href="#readme-top">back to top</a>]</p>
 
 ## Contact
