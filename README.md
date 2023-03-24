@@ -29,6 +29,7 @@ This repository is a collection of datasets, models and approaches for affective
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
 
   </ol>
 </details>
@@ -107,3 +108,11 @@ This repository is a collection of datasets, models and approaches for affective
 
 <p align="right">[<a href="#readme-top">back to top</a>]</p>
 
+## Acknowledgements
+<!-- List of people who contributed to this Knowledge Exchange Repository -->
+*
+*
+*
+*
+
+<p align="right">[<a href="#readme-top">back to top</a>]</p>
