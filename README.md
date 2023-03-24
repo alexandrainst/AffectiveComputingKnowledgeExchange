@@ -52,9 +52,10 @@ This repository is a collection of datasets, models and approaches for affective
 
  -->
 
-| Name|Year|Description|Modalities|Link|Licence|
-|:-|:-:|:-|:-|:-|:-:|
-| Aff-Wild2 | 2022 | AffWild2 is a publicly available multimodal dataset for affect recognition and analysis, containing videos of people displaying a range of emotions and facial expressions. The dataset is split into two parts: AffWild2-Train, which includes around 1200 videos of various emotions and facial expressions, and AffWild2-Test, which consists of around 200 videos for evaluation purposes.|:camera: :movie_camera: :sound: |[ibug](https://ibug.doc.ic.ac.uk/resources/aff-wild2/)| research-only |
+| Name|Year|Description|Modalities|Gray/Color|Link|Licence|
+|:-|:-:|:-|:-|:-|:-|:-:|
+| Aff-Wild2 | 2022 | AffWild2 is a publicly available multimodal dataset for affect recognition and analysis, containing videos of people displaying a range of emotions and facial expressions. The dataset is split into two parts: AffWild2-Train, which includes around 1200 videos of various emotions and facial expressions, and AffWild2-Test, which consists of around 200 videos for evaluation purposes.|:camera: :movie_camera: :sound: |Color|[ibug](https://ibug.doc.ic.ac.uk/resources/aff-wild2/)| non-commercial |
+|JAFFE|1998| The Japanese Female Facial Expression Dataset contains 10 japanese female expressers, each expressing 7 basic emotions (anger, disgust, fear, happiness, sadness, surprise, and neutral) for 3 times. The dataset contains 213 images.|:camera:|Gray|[JAFFE](https://www.kasrl.org/jaffe.html)|non-commercial|
 
 <p align="right">[<a href="#readme-top">back to top</a>]</p>
 
@@ -109,12 +110,12 @@ This repository is a collection of datasets, models and approaches for affective
 ## Evaluation
 <!-- List of evaluation metrics for affective computing models and approaches -->
 This section describes how to quatify affective computing models and approaches.
-|Name[Link]|Description|metric|
-|:-|:-|:-|
-|Valence-Arousal (VA) Space|The valence-arousal space is a two-dimensional space that represents the affective states of a person. The valence axis represents the positive-negative dimension, while the arousal axis represents the active(high)-passive(low) dimension.||
-|Expression Clasification|The expression classification is a classification task that classifies the facial expression into one of the following categories: neutral, happy, sad, surprise, fear, disgust, anger, contempt.|Accuracy, Precision, Recall, F1|
-|Facial Action Coding System (FACS)|The Facial Action Coding System (FACS) is a coding system for describing facial movements. The FACS is a system of 46 action units (AUs) that are defined by the location and movement of the facial muscles.|Accuracy, Precision, Recall, F1|
-|Emotion Reaction Intensity (ERI)|The emotion reaction intensity (ERI) is a scale that measures the intensity of the emotional reaction to a stimulus.|average pearson’s correlations coefficient (ρ) across the 7 emotional reactions|
+|Name[Link]|Description|metric|source
+|:-|:-|:-|:-|
+|Valence-Arousal (VA) Space|The valence-arousal space is a two-dimensional space that represents the affective states of a person. The valence axis represents the positive-negative dimension, while the arousal axis represents the active(high)-passive(low) dimension.|Concordance Correlation Coefficient|[ibug](https://ibug.doc.ic.ac.uk/resources/cvpr-2023-5th-abaw/)
+|Expression Clasification|The expression classification is a classification task that classifies the facial expression into one of the following categories: neutral, happy, sad, surprise, fear, disgust, anger, contempt.|Accuracy, Precision, Recall, F1|[ibug](https://ibug.doc.ic.ac.uk/resources/cvpr-2023-5th-abaw/)
+|Facial Action Coding System (FACS)|The Facial Action Coding System (FACS) is a coding system for describing facial movements. The FACS is a system of 46 action units (AUs) that are defined by the location and movement of the facial muscles.|Accuracy, Precision, Recall, F1|[ibug](https://ibug.doc.ic.ac.uk/resources/cvpr-2023-5th-abaw/)
+|Emotion Reaction Intensity (ERI)|The emotion reaction intensity (ERI) is a scale that measures the intensity of the emotional reaction to a stimulus.|average pearson’s correlations coefficient (ρ) across the 7 emotional reactions| [ibug](https://ibug.doc.ic.ac.uk/resources/cvpr-2023-5th-abaw/)
 
 <p align="right">[<a href="#readme-top">back to top</a>]</p>
 
