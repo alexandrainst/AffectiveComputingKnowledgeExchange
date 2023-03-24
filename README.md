@@ -1,9 +1,7 @@
 <a name="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
 # Affective Computing Knowledge Exchange
@@ -129,13 +127,10 @@ This repository is a collection of datasets, models and approaches for affective
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/alexandrainst/AffectiveComputingKnowledgeExchange.svg?style=for-the-badge
 [contributors-url]: https://github.com/alexandrainst/AffectiveComputingKnowledgeExchange/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/alexandrainst/AffectiveComputingKnowledgeExchange/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/alexandrainst/AffectiveComputingKnowledgeExchange/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/alexandrainst/AffectiveComputingKnowledgeExchange/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/alexandrainst/AffectiveComputingKnowledgeExchange.svg?style=for-the-badge
 [license-url]: https://github.com/alexandrainst/AffectiveComputingKnowledgeExchange/blob/master/LICENSE.txt
+[stars-shield]: https://img.shields.io/github/stars/alexandrainst/AffectiveComputingKnowledgeExchange.svg?style=for-the-badge
+[stars-url]: https://github.com/alexandrainst/AffectiveComputingKnowledgeExchange/stargazers
+
