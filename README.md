@@ -3,16 +3,36 @@
 <!-- write a short introduction -->
 This repository is a collection of datasets, models and approaches for affective computing. The goal is to provide a comprehensive overview of the current state of the art in the field of multimodal affect computing with a focus on emotion extraction from different modalities. The repository is structured as follows:
 
-* [Datasets](#datasets)
-* [Models and Approaches](#models-and-approaches)
-  * [Visual Features](#visual-features)
-    * [Keypoint extractor](#keypoint-extractor)
-    * [Interpretation of visual features](#interpretation-of-visual-features)
-  * [Audio Features](#audio-features)
-    * [Feature extractor](#feature-extractor)
-    * [Interpretation of audio features](#interpretation-of-audio-features)
-  * [Multimodal Features](#multimodal-features)
-* [Contact](#contact)
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#datasets">Datasets</a></li>
+    <li>
+      <a href="#models-and-approaches">Models and Approaches</a>
+      <ul>
+        <li>
+          <a href="#visual-features">Visual Features</a>
+          <ul>
+            <li><a href="#keypoint-extractor">Keypoint extractor</a></li>
+            <li><a href="#interpretation-of-visual-features">Interpretation of visual features</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#audio-features">Audio Features</a>
+          <ul>
+            <li><a href="#feature-extractor">Feature extractor</a></li>
+            <li><a href="#interpretation-of-audio-features">Interpretation of audio features</a></li>
+          </ul>
+        </li>
+        <li><a href="#multimodal-features">Multimodal Features</a></li>
+      </ul>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+
+  </ol>
+</details>
+
 
 ## Datasets
 <!-- Usage of the table
@@ -85,5 +105,5 @@ This repository is a collection of datasets, models and approaches for affective
 * [Simon Leminen Madsen](https://github.com/leminen) - Alexandra Institute
 * [Eike Kutzki](https://github.com/eikekutz) - Alexandra Institute
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">[<a href="#readme-top">back to top</a>]</p>
 
