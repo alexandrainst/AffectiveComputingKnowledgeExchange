@@ -47,7 +47,7 @@ This repository is a collection of datasets, models and approaches for affective
 |[OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|Facial Behavorial Analysis Toolkit that allows to perform facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. ||
 |[3DDFA_V2](https://github.com/cleardusk/3DDFA_V2)|3DDFA_V2 is a PyTorch implementation of 3DDFA, which is a 3D Morphable Model (3DMM) based face alignment and reconstruction framework. ||
 
-<p align="right">[<a href="#readme-top">back to top</a>]</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 #### Interpretation of visual features
 
@@ -85,5 +85,5 @@ This repository is a collection of datasets, models and approaches for affective
 * [Simon Leminen Madsen](https://github.com/leminen) - Alexandra Institute
 * [Eike Kutzki](https://github.com/eikekutz) - Alexandra Institute
 
-<p align="right">[<a href="#readme-top">back to top</a>]</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
