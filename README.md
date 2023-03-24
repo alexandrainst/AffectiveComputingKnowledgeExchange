@@ -52,10 +52,10 @@ This repository is a collection of datasets, models and approaches for affective
 
  -->
 
-| Name|Year|Description|Modalities|Gray/Color|Link|Licence|
-|:-|:-:|:-|:-|:-|:-|:-:|
-| Aff-Wild2 | 2022 | AffWild2 is a publicly available multimodal dataset for affect recognition and analysis, containing videos of people displaying a range of emotions and facial expressions. The dataset is split into two parts: AffWild2-Train, which includes around 1200 videos of various emotions and facial expressions, and AffWild2-Test, which consists of around 200 videos for evaluation purposes.|:camera: :movie_camera: :sound: |Color|[ibug](https://ibug.doc.ic.ac.uk/resources/aff-wild2/)| non-commercial |
-|JAFFE|1998| The Japanese Female Facial Expression Dataset contains 10 japanese female expressers, each expressing 7 basic emotions (anger, disgust, fear, happiness, sadness, surprise, and neutral) for 3 times. The dataset contains 213 images.|:camera:|Gray|[JAFFE](https://www.kasrl.org/jaffe.html)|non-commercial|
+| Name|Year|Description|Number of Subjects|Number of images/videos|Facial Expressions|Modalities|Link|Licence|
+|:-|:-:|:-|:-:|:-:|:-|:-|:-|:-:|
+| Aff-Wild2 | 2022 | AffWild2 is a publicly available multimodal dataset for affect recognition and analysis, containing videos of people displaying a range of emotions and facial expressions. The dataset is split into two parts: AffWild2-Train, which includes around 1200 videos of various emotions and facial expressions, and AffWild2-Test, which consists of around 200 videos for evaluation purposes.|10|213 static images|neutral, happiness, sadness, surprise, fear, disgust, anger + valence-arousal + action units 1,2,4,6,12,15,20,25|:camera: :movie_camera: :sound: |[ibug](https://ibug.doc.ic.ac.uk/resources/aff-wild2/)| non-commercial |
+|JAFFE|1998| The Japanese Female Facial Expression Dataset contains 10 japanese female expressers, each expressing 7 basic emotions (anger, disgust, fear, happiness, sadness, surprise, and neutral) for 3 times. The dataset contains 213 images.|458|2.800.000 manually annotated|neutral, sadness, surprise, happiness, fear, anger, and disgust|:camera:|[JAFFE](https://www.kasrl.org/jaffe.html)|non-commercial|
 
 <p align="right">[<a href="#readme-top">back to top</a>]</p>
 
