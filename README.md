@@ -56,6 +56,7 @@ This repository is a collection of datasets, models and approaches for affective
 |:-|:-:|:-|:-:|:-:|:-|:-|:-|:-:|
 | Aff-Wild2 | 2022 | AffWild2 is a publicly available multimodal dataset for affect recognition and analysis, containing videos of people displaying a range of emotions and facial expressions. The dataset is split into two parts: AffWild2-Train, which includes around 1200 videos of various emotions and facial expressions, and AffWild2-Test, which consists of around 200 videos for evaluation purposes.|10|213 static images|neutral, happiness, sadness, surprise, fear, disgust, anger + valence-arousal + action units 1,2,4,6,12,15,20,25|:camera: :movie_camera: :sound: |[ibug](https://ibug.doc.ic.ac.uk/resources/aff-wild2/)| non-commercial |
 |JAFFE|1998| The Japanese Female Facial Expression Dataset contains 10 japanese female expressers, each expressing 7 basic emotions (anger, disgust, fear, happiness, sadness, surprise, and neutral) for 3 times. The dataset contains 213 images.|458|2.800.000 manually annotated|neutral, sadness, surprise, happiness, fear, anger, and disgust|:camera:|[JAFFE](https://www.kasrl.org/jaffe.html)|non-commercial|
+|Face expression recognition dataset|2019|
 
 <p align="right">[<a href="#readme-top">back to top</a>]</p>
 
@@ -79,9 +80,10 @@ This repository is a collection of datasets, models and approaches for affective
 
 #### Interpretation of visual features
 
-|Name[Link]|Description|Tags|
+|Name[Link]|Description|Targets|
 |:-|:-|:-|
-|[Facial Action Coding System](https://en.wikipedia.org/wiki/Facial_Action_Coding_System)|Movements of individual facial muscles are encoded by the FACS from slight different instant changes in facial appearance. ||
+|[Facial Action Coding System](https://en.wikipedia.org/wiki/Facial_Action_Coding_System)|Movements of individual facial muscles are encoded by the FACS from slight different instant changes in facial appearance. |AU|
+|[Multi-Task Learning Framework for Emotion Recognition in-the-wild](https://arxiv.org/pdf/2207.09373.pdf)|Features of three different feature extractors are fused and then passed into a temporal model. The output is forwarded to two different regression models (one for valence and one for arousal) and to two classification models (one for emotion and one for action units).|VA, EmoRec, AU|
 
 <p align="right">[<a href="#readme-top">back to top</a>]</p>
 
