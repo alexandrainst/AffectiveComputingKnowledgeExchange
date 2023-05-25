@@ -63,6 +63,25 @@ This repository is a collection of datasets, models and approaches for affective
 
 <p align="right">[<a href="#readme-top">back to top</a>]</p>
 
+## Data sets 
+<!-- Usage of the table
+    Name: name of the dataset
+    Year: year of publication
+    Description: a short description of the dataset
+    Tags: tags of the dataset e.g "audio" : :sound: , "video" : :movie_camera: , "image" : :camera:
+    link: link to the dataset
+    Licence: In what context is the dataset allowed to be used e.g "research only"
+
+ -->
+
+|Name|Year|Description|Number of Subjects|Mental Disorder|Labels|Modalities|Availability|
+|:-|:-|:-|:-:|:-:|:-|:-|:-:|
+|[Depresjon](https://datasets.simula.no/depresjon)|2018| A Motor Activity Database of Depression Episodes in Unipolar and Bipolar Patients| 55 |depression, unipolar/bipolar|MADRS|motor activity recordings|free to download|
+|[AVEC2014]()|2014| The Audio/Visual Emotion Challenge and Workshop | xx | depression | PHQ | | upon request|
+|[AVEC2013](https://github.com/chkche1/avec2013)|2013| The Audio/Visual Emotion Challenge and Workshop | 292 | depression |BDI, valence, arousal|audio features|free to download|
+|-|
+
+
 ## Models and Approaches
 <p align="right">[<a href="#readme-top">back to top</a>]</p>
 
